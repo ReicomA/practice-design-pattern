@@ -13,5 +13,12 @@ Python 코드는 에이콘 출판사의 "파이썬 디자인 패턴 2/e"를 참�
         * [Go](singleton/go/lazy_instantiation.go) (same with basic singleton)
     * Monostate Singleton
         * [Python](singleton/python/monostate_singleton.py)
+* Factory Pattern (주제: 필기구(연필과 펜))
+    * Factory Method
+        * [Python](factory/python/factory_method.py)
+        * Go
+    * Abstract Factory 
+        * [Python](factory/python/factory_method.py)
+        * Go
 
 ## Design Pattern Test(준비중)
