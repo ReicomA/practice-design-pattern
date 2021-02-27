@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3.9.0-blue?style=flat-square)
 ![Go](https://img.shields.io/badge/go-1.13-01cefb?style=flat-square)<br>
 디자인패턴 연습용 Repo<br>
-Python 코드는 에이콘 출판사의 "파이썬 디자인 패턴 2/e"의 일부를 참고하여 작성했습니다.
+Python 코드의 일부는 에이콘 출판사의 "파이썬 디자인 패턴 2/e"의 일부를 참고하여 작성했습니다.
 ## Design Pattern List
 * Singleton (주제: 프린터)
     * Basic Singleton
@@ -24,5 +24,9 @@ Python 코드는 에이콘 출판사의 "파이썬 디자인 패턴 2/e"의 일�
     * Facade
         * [Python](facade/python/facade.py)
         * [Go](facade/go/facade.go)
+* Froxy Pattern (주제: 결제(교재 참고))
+    * Froxy
+        * [Python](froxy/python/froxy.py)
+        * [Go](froxy/go/froxy.go)
 
 ## Design Pattern Test(준비중)
