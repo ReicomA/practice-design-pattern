@@ -28,5 +28,9 @@ Python 코드의 일부는 에이콘 출판사의 "파이썬 디자인 패턴 2/
     * Froxy
         * [Python](froxy/python/froxy.py)
         * [Go](froxy/go/froxy.go)
+* Observer Pattern (주제: 뉴스(교재 참고))
+    * Observer
+        * [Python](observer/python/observer.py)
+        * [Go]
 
 ## Design Pattern Test(준비중)
