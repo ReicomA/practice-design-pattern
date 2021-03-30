@@ -32,5 +32,8 @@ Python 코드의 일부는 에이콘 출판사의 "파이썬 디자인 패턴 2/
     * Observer
         * [Python](observer/python/observer.py)
         * [Go]
+* Command Pattern (주제: 텍스트 편집기)
+    * Command
+        * [Python](command/python/command.py)
 
 ## Design Pattern Test(준비중)
